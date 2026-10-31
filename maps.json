@@ -291,5 +291,18 @@
   "source_url": "https://x.com/XiangminF/status/2114285880932274488",
   "launched": "2026-10-25",
   "description": "The Mediterranean coast, the cathedral, the port, La Malagueta bullring and Gibralfaro hill, about 2.4 gigapixels of pixel art."
+ },
+ {
+  "id": "amsterdam",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "lat": 52.373,
+  "lon": 4.893,
+  "title": "Isometric Amsterdam",
+  "url": "https://sezlab.dev/amsterdam/",
+  "author": "sezer",
+  "author_url": "https://x.com/sezerkusku",
+  "description": "Amsterdam's historic centre with all 68,543 buildings at their real heights, canals, parks and trees; the landmarks are being redrawn one by one from photos.",
+  "wip": true
  }
 ]
