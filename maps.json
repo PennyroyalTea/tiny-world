@@ -99,6 +99,20 @@
   "wip": true
  },
  {
+  "id": "rio-de-janeiro",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "lat": -22.915,
+  "lon": -43.205,
+  "title": "tinyrj",
+  "url": "https://tinyrj.com/",
+  "author": "Thomas M.",
+  "author_url": "https://x.com/xthomasms",
+  "launched": "2026-10-31",
+  "description": "Rio de Janeiro redrawn as an isometric pixel-art map from the city's 3D model, with planes to fly over it.",
+  "wip": true
+ },
+ {
   "id": "stockholm",
   "city": "Stockholm",
   "country": "Sweden",
