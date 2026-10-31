@@ -361,5 +361,18 @@
   "author_url": "https://x.com/tarciozemel",
   "launched": "2026-10-28",
   "description": "Isometric pixel art map of Juiz de Fora with plenty of information and gamification."
+ },
+ {
+  "id": "belgrade",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "lat": 44.8205,
+  "lon": 20.4535,
+  "title": "Tiny Belgrade",
+  "url": "https://tinybelgrade.com/",
+  "author": "Tümay Sönmez & Buse Turgay Sönmez",
+  "author_url": "https://x.com/buseturgay",
+  "launched": "2026-10-31",
+  "description": "Belgrade redrawn tile by tile as one isometric pixel-art map, from Kalemegdan and the old town to New Belgrade and Zemun."
  }
 ]
