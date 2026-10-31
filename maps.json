@@ -306,5 +306,17 @@
   "launched": "2026-10-30",
   "description": "Amsterdam's historic centre with all 68,543 buildings at their real heights, canals, parks and trees; the landmarks are being redrawn one by one from photos.",
   "wip": true
+ },
+ {
+  "id": "warsaw-tiny",
+  "city": "Warsaw",
+  "country": "Poland",
+  "lat": 52.23,
+  "lon": 21.01,
+  "title": "Tiny Warsaw",
+  "url": "https://tinywarsaw.app/",
+  "author": "Dominik Roszkowski",
+  "author_url": "https://github.com/orestesgaolin",
+  "description": "Warsaw as a low-poly 3D diorama built from OpenStreetMap, GUGiK heights and the city's tree map, with hand-modelled landmarks, live flights at Okęcie, day and night light, rides and multiplayer flying."
  }
 ]
