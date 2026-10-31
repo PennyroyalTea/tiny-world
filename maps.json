@@ -332,5 +332,18 @@
   "author": "Dominik Roszkowski",
   "author_url": "https://github.com/orestesgaolin",
   "description": "Warsaw as a low-poly 3D diorama built from OpenStreetMap, GUGiK heights and the city's tree map, with hand-modelled landmarks, live flights at Okęcie, day and night light, rides and multiplayer flying."
+ },
+ {
+  "id": "london-drawn",
+  "city": "London",
+  "country": "United Kingdom",
+  "lat": 51.507,
+  "lon": -0.12,
+  "title": "London, drawn",
+  "url": "https://sheets.works/data-viz/london",
+  "author": "Akash Wadhwani",
+  "author_url": "https://sheets.works/",
+  "source_url": "https://sheets.works/data-viz/london/story",
+  "description": "216 square kilometres of central London redrawn by AI from Google's 3D map, one 700-metre square at a time, with 183 buildings you can open."
  }
 ]
