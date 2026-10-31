@@ -348,5 +348,18 @@
   "source_url": "https://x.com/akashwadhwani35/status/2084952702107435106",
   "launched": "2026-08-05",
   "description": "216 square kilometres of central London redrawn by AI from Google's 3D map, one 700-metre square at a time, with 183 buildings you can open."
+ },
+  {
+  "id": "juiz-de-fora",
+  "city": "Juiz de Fora",
+  "country": "Brazil",
+  "lat": -21.7611,
+  "lon": -43.3506,
+  "title": "JF em Pixels",
+  "url": "https://jfpx.pages.dev/",
+  "author": "Tárcio Zemel",
+  "author_url": "https://x.com/tarciozemel",
+  "launched": "2026-10-28",
+  "description": "Isometric pixel art map of Juiz de Fora with plenty of information and gamification."
  }
 ]
