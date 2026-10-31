@@ -1,0 +1,32 @@
+name: Add a map
+description: A city map for tiny.london/world
+title: "Add: "
+labels: ["new map"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the map
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: city
+    attributes:
+      label: City
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Who made it
+      description: A name or handle, and a link if you like
+  - type: input
+    id: post
+    attributes:
+      label: Where you posted it
+      description: A post, a thread or a write-up, if there is one
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
