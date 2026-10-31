@@ -140,19 +140,6 @@
   "wip": true
  },
  {
-  "id": "casablanca",
-  "city": "Casablanca",
-  "country": "Morocco",
-  "lat": 33.594,
-  "lon": -7.616,
-  "title": "Tiny Casablanca",
-  "url": "https://loumizhu.github.io/casablanca-pixel-map/",
-  "author": "loumizhu",
-  "author_url": "https://github.com/loumizhu",
-  "source_url": "https://github.com/loumizhu/casablanca-pixel-map",
-  "description": "Downtown Casablanca as one seamless isometric pixel-art map, with pins on its landmarks."
- },
- {
   "id": "buenos-aires",
   "city": "Buenos Aires",
   "country": "Argentina",
