@@ -338,12 +338,13 @@
   "city": "London",
   "country": "United Kingdom",
   "lat": 51.507,
-  "lon": -0.12,
+  "lon": -0.128,
   "title": "London, drawn",
   "url": "https://sheets.works/data-viz/london",
   "author": "Akash Wadhwani",
-  "author_url": "https://sheets.works/",
-  "source_url": "https://sheets.works/data-viz/london/story",
+  "author_url": "https://x.com/akashwadhwani35",
+  "source_url": "https://x.com/akashwadhwani35/status/2084952702107435106",
+  "launched": "2026-08-05",
   "description": "216 square kilometres of central London redrawn by AI from Google's 3D map, one 700-metre square at a time, with 183 buildings you can open."
  }
 ]
