@@ -349,7 +349,7 @@
   "launched": "2026-08-05",
   "description": "216 square kilometres of central London redrawn by AI from Google's 3D map, one 700-metre square at a time, with 183 buildings you can open."
  },
-  {
+ {
   "id": "juiz-de-fora",
   "city": "Juiz de Fora",
   "country": "Brazil",
@@ -374,5 +374,18 @@
   "author_url": "https://x.com/buseturgay",
   "launched": "2026-10-31",
   "description": "Belgrade redrawn tile by tile as one isometric pixel-art map, from Kalemegdan and the old town to New Belgrade and Zemun."
+ },
+ {
+  "id": "prague",
+  "city": "Prague",
+  "country": "Czechia",
+  "lat": 50.0865,
+  "lon": 14.4114,
+  "title": "Tiny Prague",
+  "url": "https://tinyprague.com/",
+  "author": "Martin Janoušek",
+  "author_url": "https://martinjanousek.com",
+  "launched": "2026-10-31",
+  "description": "Central Prague as a live isometric map from open data, in vector or pixel art, with real roofs from the city's 3D building model."
  }
 ]
