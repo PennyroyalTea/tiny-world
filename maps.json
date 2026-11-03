@@ -401,5 +401,19 @@
   "source_url": "https://x.com/AlesSrsen/status/2117219014917464546",
   "launched": "2026-11-02",
   "description": "All of Prague as a stylized isometric map, redrawn from Google Earth captures by a fine-tuned Qwen model, with place search and metro and tram overlays."
+ },
+ {
+  "id": "frankfurt",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "lat": 50.11,
+  "lon": 8.682,
+  "title": "tiny frankfurt",
+  "url": "https://tinyfrankfurt.de/",
+  "author": "amm98d",
+  "author_url": "https://github.com/amm98d",
+  "launched": "2026-11-03",
+  "description": "Frankfurt as an isometric pixel-art map, redrawn from Google's 3D map with a Qwen image model, with street life on the river and roads. Starting with the skyline, the Altstadt and Sachsenhausen.",
+  "wip": true
  }
 ]
