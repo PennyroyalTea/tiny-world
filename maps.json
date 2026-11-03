@@ -428,5 +428,20 @@
   "author_url": "https://www.kapler.cz",
   "launched": "2026-10-31",
   "description": "All of Prague as a real-time low-poly 3D city from open map, terrain and aerial data, with hand-modelled landmarks, live trams, buses and metro, planes, day and night and a route planner."
+ },
+ {
+  "id": "toronto",
+  "city": "Toronto",
+  "country": "Canada",
+  "lat": 43.655,
+  "lon": -79.38,
+  "title": "Isometric Toronto",
+  "url": "https://iso.sloptoronto.ca/",
+  "author": "John Fewell",
+  "author_url": "https://x.com/johnfewell",
+  "source_url": "https://x.com/johnfewell/status/2117611341036900716",
+  "launched": "2026-11-02",
+  "description": "Downtown Toronto from Bathurst to the Don and Bloor to the harbour as one isometric illustration after SimCity 2000, drawn by a small model that learned from a big one's examples.",
+  "wip": true
  }
 ]
