@@ -415,5 +415,18 @@
   "launched": "2026-11-03",
   "description": "Frankfurt as an isometric pixel-art map, redrawn from Google's 3D map with a Qwen image model, with street life on the river and roads. Starting with the skyline, the Altstadt and Sachsenhausen.",
   "wip": true
+ },
+ {
+  "id": "prague-kapler",
+  "city": "Prague",
+  "country": "Czechia",
+  "lat": 50.06,
+  "lon": 14.465,
+  "title": "Tiny Prague",
+  "url": "https://tinyprague.cz/",
+  "author": "Tomáš Kapler",
+  "author_url": "https://www.kapler.cz",
+  "launched": "2026-10-31",
+  "description": "All of Prague as a real-time low-poly 3D city from open map, terrain and aerial data, with hand-modelled landmarks, live trams, buses and metro, planes, day and night and a route planner."
  }
 ]
