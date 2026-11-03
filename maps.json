@@ -387,5 +387,19 @@
   "author_url": "https://martinjanousek.com",
   "launched": "2026-10-31",
   "description": "Central Prague as a live isometric map from open data, in vector or pixel art, with real roofs from the city's 3D building model."
+ },
+ {
+  "id": "frankfurt",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "lat": 50.11,
+  "lon": 8.682,
+  "title": "tiny frankfurt",
+  "url": "https://tinyfrankfurt.de/",
+  "author": "amm98d",
+  "author_url": "https://github.com/amm98d",
+  "launched": "2026-11-03",
+  "description": "Frankfurt as an isometric pixel-art map, redrawn from Google's 3D map with a Qwen image model, with street life on the river and roads. Starting with the skyline, the Altstadt and Sachsenhausen.",
+  "wip": true
  }
 ]
