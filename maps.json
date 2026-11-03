@@ -387,5 +387,19 @@
   "author_url": "https://martinjanousek.com",
   "launched": "2026-10-31",
   "description": "Central Prague as a live isometric map from open data, in vector or pixel art, with real roofs from the city's 3D building model."
+ },
+ {
+  "id": "prague-srsen",
+  "city": "Prague",
+  "country": "Czechia",
+  "lat": 50.0646,
+  "lon": 14.4775,
+  "title": "Tiny Prague",
+  "url": "https://tinyprague.srsen.me/",
+  "author": "Aleš Sršeň",
+  "author_url": "https://srsen.me",
+  "source_url": "https://x.com/AlesSrsen/status/2117219014917464546",
+  "launched": "2026-11-02",
+  "description": "All of Prague as a stylized isometric map, redrawn from Google Earth captures by a fine-tuned Qwen model, with place search and metro and tram overlays."
  }
 ]
