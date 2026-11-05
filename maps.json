@@ -443,5 +443,19 @@
   "launched": "2026-11-02",
   "description": "Downtown Toronto from Bathurst to the Don and Bloor to the harbour as one isometric illustration after SimCity 2000, drawn by a small model that learned from a big one's examples.",
   "wip": true
+ },
+ {
+  "id": "sao-paulo",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "lat": -23.5614,
+  "lon": -46.6558,
+  "title": "TinySP",
+  "url": "https://tinysp.vercel.app",
+  "author": "Lucas Guerras",
+  "author_url": "https://x.com/lucasguerras22",
+  "launched": "2026-11-03",
+  "description": "São Paulo redrawn as an isometric pixel-art map, with day and night tiles.",
+  "wip": true
  }
 ]
