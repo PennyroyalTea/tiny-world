@@ -206,20 +206,6 @@
   "description": "San Francisco as one giant isometric pixel painting by a custom model, with tours and postcards."
  },
  {
-  "id": "san-francisco-north-beach",
-  "city": "San Francisco",
-  "country": "United States",
-  "lat": 37.801,
-  "lon": -122.407,
-  "title": "SF Isometric",
-  "url": "https://justinchavez.github.io/sf-isometric-demo/",
-  "author": "Justin Chavez",
-  "author_url": "https://github.com/JustinChavez",
-  "source_url": "https://github.com/JustinChavez/sf-isometric-demo",
-  "launched": "2026-09-17",
-  "description": "A small square of North Beach round Coit Tower, redrawn as an isometric pixel-art mosaic."
- },
- {
   "id": "leon",
   "city": "León",
   "country": "Mexico",
