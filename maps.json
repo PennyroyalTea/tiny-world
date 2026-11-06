@@ -543,5 +543,18 @@
   "source_url": "https://x.com/darnfish/status/2117137965873025202",
   "launched": "2026-11-02",
   "description": "Every street from the Valley to the harbor as one giant isometric image, made with tiny.london's method on Andy Coenen's isometric-nyc viewer, with place search."
+ },
+ {
+  "id": "tirana",
+  "city": "Tirana",
+  "country": "Albania",
+  "lat": 41.327,
+  "lon": 19.819,
+  "title": "Tiny Tirana",
+  "url": "https://tirana.fyi/",
+  "author": "Okan Erturan",
+  "author_url": "https://github.com/okanerturan",
+  "launched": "2026-11-06",
+  "description": "The whole city, the airport and Mount Dajti as one isometric pixel-art map, painted with tiny.london's method, with live planes, buses, a cable car and 46 landmark cards."
  }
 ]
