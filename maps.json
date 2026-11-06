@@ -529,5 +529,19 @@
   "source_url": "https://x.com/igorlrazevedo/status/2118011231030399084",
   "launched": "2026-11-04",
   "description": "Niemeyer's modernist capital rebuilt as a tiny pixel-art city, made fully locally, with place search."
+ },
+ {
+  "id": "los-angeles",
+  "city": "Los Angeles",
+  "country": "United States",
+  "lat": 34.024,
+  "lon": -118.392,
+  "title": "Isometric Los Angeles",
+  "url": "https://isometric.la/",
+  "author": "William Gibson",
+  "author_url": "https://darn.fish",
+  "source_url": "https://x.com/darnfish/status/2117137965873025202",
+  "launched": "2026-11-02",
+  "description": "Every street from the Valley to the harbor as one giant isometric image, made with tiny.london's method on Andy Coenen's isometric-nyc viewer, with place search."
  }
 ]
