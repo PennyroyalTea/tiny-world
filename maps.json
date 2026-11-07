@@ -543,5 +543,18 @@
   "source_url": "https://x.com/darnfish/status/2117137965873025202",
   "launched": "2026-11-02",
   "description": "Every street from the Valley to the harbor as one giant isometric image, made with tiny.london's method on Andy Coenen's isometric-nyc viewer, with place search."
+ },
+ {
+  "id": "state-college",
+  "city": "State College",
+  "country": "United States",
+  "lat": 40.802,
+  "lon": -77.863,
+  "title": "Isometric State College",
+  "url": "https://tiny.college/",
+  "author": "Pranav Karra",
+  "author_url": "https://pranavkarra.me",
+  "launched": "2026-11-07",
+  "description": "State College and Penn State's campus in the style of SimCity 2000, painted from Google's 3D map by a fine-tuned image model in seven seasons and times of day."
  }
 ]
