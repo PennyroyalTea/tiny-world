@@ -545,6 +545,33 @@
   "description": "Every street from the Valley to the harbor as one giant isometric image, made with tiny.london's method on Andy Coenen's isometric-nyc viewer, with place search."
  },
  {
+  "id": "madrid",
+  "city": "Madrid",
+  "country": "Spain",
+  "lat": 40.417,
+  "lon": -3.704,
+  "title": "Tiny Madrid",
+  "url": "https://tinymadrid.app/",
+  "author": "Shinferencia",
+  "author_url": "https://x.com/Shinferencia",
+  "source_url": "https://x.com/Shinferencia/status/2118775805039767709",
+  "description": "An illustrated isometric map of Madrid built from the city's municipal 3D mesh, with a Windows 98-style interface, driving, flying and street races."
+ },
+ {
+  "id": "tirana",
+  "city": "Tirana",
+  "country": "Albania",
+  "lat": 41.327,
+  "lon": 19.819,
+  "title": "Tiny Tirana",
+  "url": "https://tirana.fyi/",
+  "author": "Okan Erturan",
+  "author_url": "https://x.com/tepidtamale",
+  "source_url": "https://x.com/tepidtamale/status/2118819364749062189",
+  "launched": "2026-11-06",
+  "description": "The whole city, the airport and Mount Dajti as one isometric pixel-art map, made in about a day with Claude Opus 5.5 and a LoRA trained on Colab for seamless tiles, with buses on the real timetable, live planes, the Dajti cable car and 46 landmark cards."
+ },
+ {
   "id": "state-college",
   "city": "State College",
   "country": "United States",
