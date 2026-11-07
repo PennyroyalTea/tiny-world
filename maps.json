@@ -570,5 +570,18 @@
   "source_url": "https://x.com/tepidtamale/status/2118819364749062189",
   "launched": "2026-11-06",
   "description": "The whole city, the airport and Mount Dajti as one isometric pixel-art map, made in about a day with Claude Opus 5.5 and a LoRA trained on Colab for seamless tiles, with buses on the real timetable, live planes, the Dajti cable car and 46 landmark cards."
+ },
+ {
+  "id": "state-college",
+  "city": "State College",
+  "country": "United States",
+  "lat": 40.802,
+  "lon": -77.863,
+  "title": "Isometric State College",
+  "url": "https://tiny.college/",
+  "author": "Pranav Karra",
+  "author_url": "https://pranavkarra.me",
+  "launched": "2026-11-07",
+  "description": "State College and Penn State's campus in the style of SimCity 2000, painted from Google's 3D map by a fine-tuned image model in seven seasons and times of day."
  }
 ]
