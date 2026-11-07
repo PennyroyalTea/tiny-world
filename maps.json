@@ -598,5 +598,47 @@
   "source_url": "https://x.com/zgrksc/status/2118823818349232351",
   "launched": "2026-11-06",
   "description": "Rome 8 km around the centre, redrawn by Qwen-Image from Google's 3D model as one inked, hand-coloured picture, with a history mode that plays 2,700 years where it happened."
+ },
+ {
+  "id": "seattle",
+  "city": "Seattle",
+  "country": "United States",
+  "lat": 47.625,
+  "lon": -122.345,
+  "title": "Isometric Seattle",
+  "url": "https://isometricseattle.fun/",
+  "author": "Dylan Martin",
+  "author_url": "https://dylanamartin.com",
+  "source_url": "https://x.com/dmarticus/status/2119169865286316309",
+  "launched": "2026-11-07",
+  "description": "Central Seattle, about 5.7 miles across, from Ballard and the University of Washington to the stadiums and the port, traced tile by tile by GPT Image from Google's 3D map."
+ },
+ {
+  "id": "lyon",
+  "city": "Lyon",
+  "country": "France",
+  "lat": 45.76,
+  "lon": 4.85,
+  "title": "TinyLyon",
+  "url": "https://tinylyon.com/",
+  "author": "Anir",
+  "author_url": "https://x.com/anirlahyane",
+  "source_url": "https://x.com/anirlahyane/status/2119142755586933089",
+  "launched": "2026-11-07",
+  "description": "Lyon's nine arrondissements and Villeurbanne as a pixel-art map, with trams, landmark pins and modes to drive, fly or race."
+ },
+ {
+  "id": "kinderdijk",
+  "city": "Kinderdijk",
+  "country": "Netherlands",
+  "lat": 51.884,
+  "lon": 4.639,
+  "title": "Isometric Kinderdijk",
+  "url": "https://sezlab.dev/kinderdijk/",
+  "author": "sezer",
+  "author_url": "https://x.com/sezerkusku",
+  "source_url": "https://x.com/sezerkusku/status/2117287381686538448",
+  "launched": "2026-11-02",
+  "description": "All nineteen Kinderdijk windmills, rendered from real 3D building data and Dutch topography and redrawn as pixel art with Grok Imagine, with their stories, real photos and a windmill game."
  }
 ]
