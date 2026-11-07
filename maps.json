@@ -555,6 +555,7 @@
   "author": "Shinferencia",
   "author_url": "https://x.com/Shinferencia",
   "source_url": "https://x.com/Shinferencia/status/2118775805039767709",
+  "launched": "2026-11-06",
   "description": "An illustrated isometric map of Madrid built from the city's municipal 3D mesh, with a Windows 98-style interface, driving, flying and street races."
  },
  {
@@ -583,5 +584,19 @@
   "author_url": "https://pranavkarra.me",
   "launched": "2026-11-07",
   "description": "State College and Penn State's campus in the style of SimCity 2000, painted from Google's 3D map by a fine-tuned image model in seven seasons and times of day."
+ },
+ {
+  "id": "rome",
+  "city": "Rome",
+  "country": "Italy",
+  "lat": 41.894,
+  "lon": 12.483,
+  "title": "Tiny Rome",
+  "url": "https://tinyrome.com/",
+  "author": "Dr Ozgur Kesici",
+  "author_url": "https://x.com/zgrksc",
+  "source_url": "https://x.com/zgrksc/status/2118823818349232351",
+  "launched": "2026-11-06",
+  "description": "Rome 8 km around the centre, redrawn by Qwen-Image from Google's 3D model as one inked, hand-coloured picture, with a history mode that plays 2,700 years where it happened."
  }
 ]
