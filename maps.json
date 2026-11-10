@@ -988,5 +988,19 @@
   "source_url": "https://t.me/Shahzodtech/2088",
   "launched": "2026-11-10",
   "description": "Central Pyongyang and the districts round it on both banks of the Taedong as pixel art from OpenStreetMap's streets and buildings, following the city's real time of day, weather and season."
+ },
+ {
+  "id": "paris-en-pixels",
+  "city": "Paris",
+  "country": "France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "title": "Paris en pixels",
+  "url": "https://parisenpixels.fr/",
+  "author": "Louis-Marie Soulard",
+  "author_url": "https://x.com/LouisMarie_S",
+  "source_url": "https://x.com/LouisMarie_S/status/2119812506088558740",
+  "launched": "2026-11-09",
+  "description": "Paris inside the ring road in isometric pixel art, with day, night, rain and traffic, drawn procedurally from IGN open data."
  }
 ]
