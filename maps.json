@@ -1002,5 +1002,29 @@
   "source_url": "https://x.com/LouisMarie_S/status/2119812506088558740",
   "launched": "2026-11-09",
   "description": "Paris inside the ring road in isometric pixel art, with day, night, rain and traffic, drawn procedurally from IGN open data."
+ },
+ {
+  "id": "ottawa-sun",
+  "city": "Ottawa",
+  "country": "Canada",
+  "lat": 45.422,
+  "lon": -75.697,
+  "title": "tiny.ottawa",
+  "url": "https://tinyottawa.com/",
+  "author": "Michael Sun",
+  "author_url": "https://x.com/random8michael",
+  "description": "Central Ottawa and the Gatineau core as one illustrated isometric map, painted by a Qwen model from Google's 3D map, with place search and weather to switch."
+ },
+ {
+  "id": "curitiba",
+  "city": "Curitiba",
+  "country": "Brazil",
+  "lat": -25.428,
+  "lon": -49.273,
+  "title": "Tiny Curitiba",
+  "url": "https://minicwb.com/",
+  "author": "Andre Vogellmann & LuizPVDK",
+  "author_url": "https://github.com/Vogellmann",
+  "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
  }
 ]
