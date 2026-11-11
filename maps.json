@@ -1026,5 +1026,19 @@
   "author": "Andre Vogellmann & LuizPVDK",
   "author_url": "https://github.com/Vogellmann",
   "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
+ },
+ {
+  "id": "copenhagen",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "lat": 55.645,
+  "lon": 12.572,
+  "title": "Tiny Copenhagen",
+  "url": "https://tiny-cph.pages.dev/",
+  "author": "donlion",
+  "author_url": "https://github.com/donlion",
+  "source_url": "https://github.com/donlion/tiny-cph",
+  "launched": "2026-11-11",
+  "description": "Copenhagen, Frederiksberg and all of Amager as one pixel-art map, drawn in code from OpenStreetMap with roof and tree colours from aerial photos, no image model."
  }
 ]
