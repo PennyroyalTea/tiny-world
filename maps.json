@@ -1037,7 +1037,6 @@
   "url": "https://tiny-cph.pages.dev/",
   "author": "donlion",
   "author_url": "https://github.com/donlion",
-  "source_url": "https://github.com/donlion/tiny-cph",
   "launched": "2026-11-11",
   "description": "Copenhagen, Frederiksberg and all of Amager as one pixel-art map, drawn in code from OpenStreetMap with roof and tree colours from aerial photos, no image model."
  }
