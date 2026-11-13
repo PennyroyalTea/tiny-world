@@ -1026,5 +1026,35 @@
   "author": "Andre Vogellmann & LuizPVDK",
   "author_url": "https://github.com/Vogellmann",
   "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
+ },
+ {
+  "id": "sao-paulo-galvao",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "lat": -23.57,
+  "lon": -46.64,
+  "title": "Tiny SP",
+  "url": "https://tiny-sp.agenturl.dev/",
+  "author": "brunoqgalvao",
+  "author_url": "https://x.com/brunoqgalvao",
+  "source_url": "https://x.com/brunoqgalvao/status/2118699313023029742",
+  "launched": "2026-11-06",
+  "description": "São Paulo drawn as a game map, block by block, by an image model from Google's 3D city, with a daily find-the-place challenge and builds people place on it.",
+  "wip": true
+ },
+ {
+  "id": "belo-horizonte",
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "lat": -19.93,
+  "lon": -43.94,
+  "title": "Tiny BH",
+  "url": "https://tiny-bh.agenturl.dev/",
+  "author": "brunoqgalvao",
+  "author_url": "https://x.com/brunoqgalvao",
+  "source_url": "https://x.com/brunoqgalvao/status/2120595659799871996",
+  "launched": "2026-11-11",
+  "description": "Belo Horizonte drawn as a game map from the Avenida do Contorno out to the Serra do Curral, ring by ring, with builds people place on it.",
+  "wip": true
  }
 ]
