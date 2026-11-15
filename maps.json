@@ -1026,5 +1026,31 @@
   "author": "Andre Vogellmann & LuizPVDK",
   "author_url": "https://github.com/Vogellmann",
   "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
+ },
+ {
+  "id": "santafe",
+  "city": "Santa Fe",
+  "country": "Argentina",
+  "lat": -31.622111,
+  "lon": -60.7037856,
+  "title": "Santa Fe Pixelado",
+  "url": "https://www.santafepixelado.com/",
+  "author": "Ariel Benz",
+  "author_url": "https://www.instagram.com/ariel.front/",
+  "launched": "2026-11-11",
+  "description": "Interactive 3D model of Santa Fe de la Vera Cruz with 100 landmarks, built with Three.js and OpenStreetMap data."
+ },
+ {
+  "id": "santafe-ar",
+  "city": "Santa Fe",
+  "country": "Argentina",
+  "lat": -31.622111,
+  "lon": -60.7037856,
+  "title": "Tiny Santa Fe",
+  "url": "https://tinysantafe.com/",
+  "author": "Nicolas Cavallin",
+  "author_url": "https://x.com/nicolascavallin",
+  "launched": "2026-11-14",
+  "description": "Santa Fe as an isometric pixel-art map painted tile by tile by a fine-tuned Qwen model from Google's 3D map, with a featured places guide and a daily location game."
  }
 ]
