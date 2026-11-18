@@ -1026,5 +1026,18 @@
   "author": "Andre Vogellmann & LuizPVDK",
   "author_url": "https://github.com/Vogellmann",
   "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
+ },
+ {
+  "id": "perth",
+  "city": "Perth",
+  "country": "Australia",
+  "lat": -31.952,
+  "lon": 115.861,
+  "title": "Tiny Perth",
+  "url": "https://www.tinyperth.com/",
+  "author": "Colin Dismuke",
+  "author_url": "https://x.com/cpdis",
+  "launched": "2026-11-17",
+  "description": "Greater Perth from Mindarie to Henderson and out to Rottnest, redrawn tile by tile from Google's 3D map by a small image model trained on the city, with ferries on the Swan, games at Optus Stadium and Perth's own daylight and weather."
  }
 ]
