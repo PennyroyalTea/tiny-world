@@ -1026,5 +1026,18 @@
   "author": "Andre Vogellmann & LuizPVDK",
   "author_url": "https://github.com/Vogellmann",
   "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
+ },
+ {
+  "id": "montreal-spare",
+  "city": "Montreal",
+  "country": "Canada",
+  "lat": 45.535,
+  "lon": -73.655,
+  "title": "Isometric Montréal",
+  "url": "https://map.rubric.sh/montreal",
+  "author": "Ted Spare",
+  "author_url": "https://tedspare.com",
+  "launched": "2026-11-26",
+  "description": "The entire island of Montréal (470.5 km²) as one isometric map, redrawn from Google 3D Tiles by a fine-tuned Qwen model, with scheduled STM and REM transit, pedestrians and live lu.ma events."
  }
 ]
