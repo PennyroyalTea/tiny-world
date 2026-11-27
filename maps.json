@@ -1026,5 +1026,19 @@
   "author": "Andre Vogellmann & LuizPVDK",
   "author_url": "https://github.com/Vogellmann",
   "description": "All of Curitiba as one miniature, painted by a Qwen model from Google's 3D map, with capybaras by the lake in Parque Barigui and a bi-articulated bus calling at its tube station."
+ },
+ {
+  "id": "nukus",
+  "city": "Nukus",
+  "country": "Uzbekistan",
+  "lat": 42.46,
+  "lon": 59.6025,
+  "title": "tiny nukus",
+  "url": "https://tinynukus.uz/",
+  "author": "Aydos",
+  "author_url": "https://t.me/aydossthoughts",
+  "source_url": "https://t.me/aydossthoughts/761",
+  "launched": "2026-11-27",
+  "description": "All of Nukus, Karakalpakstan, as one isometric pixel-art map drawn by code from OpenStreetMap, with 3D landmarks built from photos, weather, sound and lights at night."
  }
 ]
